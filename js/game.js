@@ -67,8 +67,9 @@ function handleSubmission() {
 
     if(gameState.guessesLeft === 0) {
         handleGameOver();
+
         for(let elem of document.getElementsByClassName('answerText')) {
-            elem.removeAttribute('hidden');
+            elem.setAttribute('style', 'opacity:100%;')
         }
     }
 
