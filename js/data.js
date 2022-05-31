@@ -20,39 +20,64 @@ const data = {
         ]
     },
     'fb1': {
-        question: "",
+        question: "We played a game in which we used to pretend we were football players and play in NFL games or scenarios. These are the players we roleplayed as the most",
         answers: [
-
+            "Peyton Manning",
+            "Demaryius Thomas",
+            "Marcus Peters",
+            "Tyreek Hill",
+            "tyrann Mathieu",
         ]
     },
     'fb2': {
-        question: "",
+        question: "These are the teams you played as the most in when we played Madden",
         answers: [
-
+            "Jets",
+            "Steelers",
+            "Chiefs",
+            "Seahawks",
+            "Cardinals",            
         ]
     },
     'vg1': {
-        question: "",
+        question: "These are videogames we played together on *your* consoles.",
         answers: [
-
+            "Lego batman 3",
+            "Madden",
+            "TMNT Smash Up",
+            "Injustice 2",
+            "Wii Play Tanks",
         ]
     },
     'vg2': {
-        question: "",
+        question: "These are videogames we played together on *your* laptop/computer",
         answers: [
-
+            "Google Feud",
+            "Superfighters",
+            "Soccer Physics",
+            "Nom Cat",
+            "Valorant",
         ]
     },
     'ij1': {
-        question: "",
+        question: "These are inside jokes we've shared during the summer of 2014",
         answers: [
-
+            "Wrench Story",
+            "Cranberry Juice",
+            "Where is that piece",
+            "The Sun Glass",
+            "Ketchup",
+            
         ]
     },
     'ij2': {
-        question: "",
+        question: "These are inside jokes we've shared not during the summer of 2014",
         answers: [
-
+            "Cheese wheel",
+            "Made in China",
+            "RKO",
+            "Gordon Ramsay",
+            "Honey Badger Don't Care",
         ]
     },
 };
