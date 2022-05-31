@@ -7,7 +7,7 @@ window.onload = () => {
 
     for(let button of document.getElementsByTagName('button')) {
         button.addEventListener('click', () => {
-            window.location.href = `/game.htm?code=${button.getAttribute('code')}`
+            window.location.href = `./game.htm?code=${button.getAttribute('code')}`
         });
     }
 };
